@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dice_War/static/css/main.75c65bbe.css",
+    "main.js": "/Dice_War/static/js/main.e508b0c9.js",
+    "index.html": "/Dice_War/index.html",
+    "main.75c65bbe.css.map": "/Dice_War/static/css/main.75c65bbe.css.map",
+    "main.e508b0c9.js.map": "/Dice_War/static/js/main.e508b0c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c65bbe.css",
+    "static/js/main.e508b0c9.js"
+  ]
+}
